@@ -28,7 +28,7 @@ Key findings from the analysis:
 - Best-selling product categories were Toys and Art and Crafts.
 - Most profitable product: Colorbuds.
 
-##Recommendations
+## Recommendations
 The following is a summary of product performance in each of the 4 Store locations, key trends in revenue and suitable product recommendations based on this analysis
 | Location    | Description                                                                                                                |
 |-------------|----------------------------------------------------------------------------------------------------------------------------|
